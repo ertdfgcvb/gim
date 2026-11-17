@@ -8,43 +8,49 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 ## 1. Tecniche e dispositivi  
 
 #### Tecniche   
-1. [Stop motion](https://it.wikipedia.org/wiki/Passo_uno)
-2. [Keyframing](https://it.wikipedia.org/wiki/Key_frame)
-3. [Procedurale](https://en.wikipedia.org/wiki/Procedural_animation)
-4. [Motion capture](https://it.wikipedia.org/wiki/Motion_capture)
-5. [Rotoscopio](https://it.wikipedia.org/wiki/Rotoscopio)
-6. [Animazione tradizionale (rodovetro)](https://it.wikipedia.org/wiki/Animazione_tradizionale)
-7. [Cutout](https://it.wikipedia.org/wiki/Cutout_animation)
-8. [Pixilation](https://en.wikipedia.org/wiki/Pixilation)
-9. [Disegno su pellicola](https://en.wikipedia.org/wiki/Drawn-on-film_animation)
-10. [Pinscreen](https://en.wikipedia.org/wiki/Pinscreen_animation)
-11. [Claymation](https://it.wikipedia.org/wiki/Claymation)
-12. [Animazione con la sabbia](https://it.wikipedia.org/wiki/Animazione_con_la_sabbia)
-13. [Pittura su vetro](https://en.wikipedia.org/wiki/Paint-on-glass_animation)
-14. [Silhouette](https://en.wikipedia.org/wiki/Silhouette_animation)
+- [Stop motion](https://it.wikipedia.org/wiki/Passo_uno)
+- [Keyframing](https://it.wikipedia.org/wiki/Key_frame)
+- [Procedurale](https://en.wikipedia.org/wiki/Procedural_animation)
+- [Motion capture](https://it.wikipedia.org/wiki/Motion_capture)
+- [Rotoscopio](https://it.wikipedia.org/wiki/Rotoscopio)
+- [Animazione tradizionale (rodovetro)](https://it.wikipedia.org/wiki/Animazione_tradizionale)
+- [Cutout](https://it.wikipedia.org/wiki/Cutout_animation)
+- [Pixilation](https://en.wikipedia.org/wiki/Pixilation)
+- [Disegno su pellicola](https://en.wikipedia.org/wiki/Drawn-on-film_animation)
+- [Pinscreen](https://en.wikipedia.org/wiki/Pinscreen_animation)
+- [Claymation](https://it.wikipedia.org/wiki/Claymation)
+- [Animazione con la sabbia](https://it.wikipedia.org/wiki/Animazione_con_la_sabbia)
+- [Pittura su vetro](https://en.wikipedia.org/wiki/Paint-on-glass_animation)
+- [Silhouette](https://en.wikipedia.org/wiki/Silhouette_animation)
 
 #### Esempi di motion capture  
-1. [Bio Motion Lab](https://www.biomotionlab.ca/html5-bml-walker/)  
-2. [p1 200](https://www.biomotionlab.ca/wp-content/uploads/2016/01/p1_200.gif)  
+- [Point-light displays](https://www.youtube.com/watch?v=JbvmtNNsn_8), Gunnar Johansson, 1973
+- [Ghostcatching](https://www.openendedgroup.com/artworks/gc.html), Bill T. Jones, Paul Kaiser, Shelley Eshkar, 1999
+- [Synchronous Objects](https://synchronousobjects.osu.edu/), William Forsythe, Ohio State University, 2009
+- [CMU Graphics Lab Motion Capture Database](http://mocap.cs.cmu.edu/) (dati)
+
+#### Sintesi da dati di motion capture  
+- [BML Walker](https://www.biomotionlab.ca/html5-bml-walker/), BioMotion Lab (camminata parametrica: genere, peso, umore)
+- [Point-light walker](https://www.biomotionlab.ca/wp-content/uploads/2016/01/p1_200.gif), BioMotion Lab (gif)
 
 #### Dispositivi  
-1. [Lanterna magica](https://it.wikipedia.org/wiki/Lanterna_magica), 1659
-2. [Taumatropio](https://it.wikipedia.org/wiki/Taumatropio), 1825
-3. [Fenachistoscopio](https://it.wikipedia.org/wiki/Fenachistoscopio), 1833
-4. [Zootropio](https://it.wikipedia.org/wiki/Zootropio), 1834
-5. [Flipbook](https://it.wikipedia.org/wiki/Flip-book), 1868
-6. [Prassinoscopio](https://it.wikipedia.org/wiki/Prassinoscopio), 1877
-7. [Zoopraxiscopio](https://en.wikipedia.org/wiki/Zoopraxiscope), 1879
-8. [Kinetoscopio](https://it.wikipedia.org/wiki/Kinetoscopio), 1891
-9. [Teatro ottico](https://it.wikipedia.org/wiki/Teatro_ottico), 1892
-10. [Cinématographe](https://it.wikipedia.org/wiki/Cinématographe), 1895
-11. [Mutoscopio](https://en.wikipedia.org/wiki/Mutoscope), 1895
-12. [Rotoscopio](https://it.wikipedia.org/wiki/Rotoscopio), 1915
-13. [Multiplane camera](https://en.wikipedia.org/wiki/Multiplane_camera), 1937
+- [Lanterna magica](https://it.wikipedia.org/wiki/Lanterna_magica), 1659
+- [Taumatropio](https://it.wikipedia.org/wiki/Taumatropio), 1825
+- [Fenachistoscopio](https://it.wikipedia.org/wiki/Fenachistoscopio), 1833
+- [Zootropio](https://it.wikipedia.org/wiki/Zootropio), 1834
+- [Flipbook](https://it.wikipedia.org/wiki/Flip-book), 1868
+- [Prassinoscopio](https://it.wikipedia.org/wiki/Prassinoscopio), 1877
+- [Zoopraxiscopio](https://en.wikipedia.org/wiki/Zoopraxiscope), 1879
+- [Kinetoscopio](https://it.wikipedia.org/wiki/Kinetoscopio), 1891
+- [Teatro ottico](https://it.wikipedia.org/wiki/Teatro_ottico), 1892
+- [Cinématographe](https://it.wikipedia.org/wiki/Cinématographe), 1895
+- [Mutoscopio](https://en.wikipedia.org/wiki/Mutoscope), 1895
+- [Rotoscopio](https://it.wikipedia.org/wiki/Rotoscopio), 1915
+- [Multiplane camera](https://en.wikipedia.org/wiki/Multiplane_camera), 1937
 
 ## 2. Movimento  
 
-#### [Eadweard Muybridge & Étienne-Jules Marey](https://it.wikipedia.org/wiki/Cronofotografia) (1850—80)  
+#### [Eadweard Muybridge & Étienne-Jules Marey](https://it.wikipedia.org/wiki/Cronofotografia) (1850–80)  
 - Marey: [fusil photographique](https://it.wikipedia.org/wiki/Fucile_fotografico)  
 - Chronophotographies, 1882  
 
@@ -63,12 +69,12 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 - [Kreise](https://www.youtube.com/watch?v=nqOyOvmY67s), 1933  
 - [Komposition in Blau](https://vimeo.com/89193540), 1935  
 - Muratti Privat, 1935  
-- [Wax Experiments](https://www.youtube.com/watch?v=zXqIKlCzqL0), 1921-26  
+- [Wax Experiments](https://www.youtube.com/watch?v=zXqIKlCzqL0), 1921–26  
 - Ornament Sound Experiments, 1932  
 - [Spirals](https://vimeo.com/73604876), c. 1926 (estratto)  
 - [Studie nr. 8](https://vimeo.com/35735682), 1931 (estratto)  
 - [Muratti greift ein](https://vimeo.com/302370872), 1934 (trailer)  
-- [Allegretto](https://www.youtube.com/watch?v=LZNRJgg6Bpc), 1936—43 (estratto)  
+- [Allegretto](https://www.youtube.com/watch?v=LZNRJgg6Bpc), 1936–43 (estratto)  
 - [An Optical Poem](https://www.youtube.com/watch?v=wsM9wnrQvuQ), 1938  
 - [Radio Dynamics](https://vimeo.com/371219352), 1942 (estratto)  
 
