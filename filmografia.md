@@ -64,12 +64,12 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 - [Film ist... #1 Movement and time](https://www.youtube.com/watch?v=dFKFuVpaKQo), 1998  
 
 #### Oskar Fischinger  
-- [Studie nr. 5](https://www.youtube.com/watch?v=NmtoUN1lpf0), 1930  
-- [Studie nr. 7](https://vimeo.com/916146524), 1931  
+- [Studie nr. 5](https://www.youtube.com/watch?v=NmtoUN1lpf0), 1930 (estratto)  
+- [Studie nr. 7](https://vimeo.com/916146524), 1931 (estratto)  
 - [Kreise](https://www.youtube.com/watch?v=nqOyOvmY67s), 1933  
-- [Komposition in Blau](https://vimeo.com/89193540), 1935  
+- [Komposition in Blau](https://vimeo.com/89193540), 1935 (estratto)  
 - Muratti Privat, 1935  
-- [Wax Experiments](https://www.youtube.com/watch?v=zXqIKlCzqL0), 1921–26  
+- [Wax Experiments](https://www.youtube.com/watch?v=zXqIKlCzqL0), 1921–26 (estratto)  
 - Ornament Sound Experiments, 1932  
 - [Spirals](https://vimeo.com/73604876), c. 1926 (estratto)  
 - [Studie nr. 8](https://vimeo.com/35735682), 1931 (estratto)  
@@ -120,6 +120,9 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 #### Karl Sims  
 - [Evolved Virtual Creatures](https://www.karlsims.com/evolved-virtual-creatures.html), 1994 (include i "bloopers")  
 
+#### Syunichi Suge  
+- [Imagine Yourself](https://aichitriennale2010-2019.jp/en/artwork/A17.html), 2019 (Aichi Triennale)  
+
 ## 4. Il mondo surreale  
 
 #### Len Lye  
@@ -142,27 +145,27 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 - [The Return To Reason](https://www.youtube.com/watch?v=9ijx-ZYVxkQ), 1923  
 
 #### Georges Schwizgebel  
-- [Le Vol d'Icare](https://vimeo.com/1169114740), 1974  
-- [Perspectives](https://vimeo.com/1169114789), 1975  
-- [Hors Jeu](https://vimeo.com/1169114811), 1977  
-- [Le Ravissement de Frank N. Stein](https://vimeo.com/1169114862), 1982  
-- [78 Tours](https://vimeo.com/1169114966), 1985  
-- [Nakounine](https://vimeo.com/1169115022), 1986  
-- [Le Sujet du Tableau](https://vimeo.com/1169115095), 1989  
-- [La Course à l'Abîme](https://vimeo.com/1169115164), 1992  
-- [L'Année du Daim](https://vimeo.com/1169115226), 1995  
-- [Zig Zag](https://vimeo.com/1169115286), 1996  
-- [Fugue](https://vimeo.com/1169115303), 1998  
-- [La Jeune Fille et les Nuages](https://vimeo.com/1169130731), 2000  
-- [L'Homme sans Ombre](https://vimeo.com/1169136096), 2004  
-- [Jeu](https://vimeo.com/1169136218), 2006  
-- [Retouches](https://vimeo.com/1169136267), 2008  
-- [Romance](https://vimeo.com/1169136338), 2011  
-- [Chemin Faisant](https://vimeo.com/1169136411), 2012  
-- [Erlkönig](https://vimeo.com/1169136466), 2015  
-- [La Bataille de San Romano](https://vimeo.com/1169136534), 2017  
-- [Darwin's Notebook](https://vimeo.com/1169136578), 2020  
-- [D'une peinture à l'autre](https://vimeo.com/1169136662), 2023  
+- [Le Vol d'Icare](https://www.youtube.com/watch?v=vkdXVlaumgU), 1974  
+- [Perspectives](https://vimeo.com/1169114789), 1975 (noleggio)  
+- [Hors Jeu](https://www.youtube.com/watch?v=TYGMfdF6lak), 1977  
+- [Le Ravissement de Frank N. Stein](https://www.youtube.com/watch?v=Yga5KB_SlPY), 1982  
+- [78 Tours](https://www.youtube.com/watch?v=xSrE3oNZz3w), 1985  
+- [Nakounine](https://www.youtube.com/watch?v=YuaMvgtI7Do), 1986  
+- [Le Sujet du Tableau](https://www.youtube.com/watch?v=NtLY5fY9HCY), 1989  
+- [La Course à l'Abîme](https://www.youtube.com/watch?v=cD-RwT5ReIQ), 1992  
+- [L'Année du Daim](https://www.youtube.com/watch?v=sFdfB5gedb8), 1995  
+- [Zig Zag](https://www.youtube.com/watch?v=Lk6TvT8rXSU), 1996  
+- [Fugue](https://www.youtube.com/watch?v=s54zxxbJSqE), 1998  
+- [La Jeune Fille et les Nuages](https://www.youtube.com/watch?v=o8M3Yfk07Wo), 2000  
+- [L'Homme sans Ombre](https://www.nfb.ca/film/homme_sans_ombre_en/), 2004  
+- [Jeu](https://www.nfb.ca/film/jeu_en/), 2006  
+- [Retouches](https://www.youtube.com/watch?v=gECMMo9EYDY), 2008  
+- [Romance](https://www.youtube.com/watch?v=h0v7cFOmwYg), 2011  
+- [Chemin Faisant](https://vimeo.com/1169136411), 2012 (noleggio)  
+- [Erlkönig](https://vimeo.com/1169136466), 2015 (noleggio)  
+- [La Bataille de San Romano](https://vimeo.com/656704401), 2017  
+- [Darwin's Notebook](https://www.youtube.com/watch?v=IvfAFvtCeWo), 2020  
+- [D'une peinture à l'autre](https://www.youtube.com/watch?v=VLhuPcW3Xuk), 2023  
 
 #### Fischli & Weiss  
 - [Der Lauf der Dinge](https://www.facebook.com/earways/videos/der-lauf-der-dinge-the-way-things-go-fischli-weiss/570376236477565/), 1987  
@@ -197,6 +200,13 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 - [Tarantella](https://www.youtube.com/watch?v=kgK8jsuhqbg), 1940  
 - [Abstronic](https://vimeo.com/217727679), 1952 (trailer)  
 
+#### John Whitney  
+- [Vertigo](https://www.youtube.com/watch?v=Z6tG8DWmuWM), 1958 (titoli con Saul Bass)  
+- [Catalog](https://www.youtube.com/watch?v=6bydDe_WCWc), 1961  
+- [Permutations](https://www.youtube.com/watch?v=U0OlsJEijHM), 1968  
+- [Matrix III](https://www.youtube.com/watch?v=ZrKgyY5aDvA), 1972  
+- [Arabesque](https://www.youtube.com/watch?v=cxkbScwt77g), 1975  
+
 #### Larry Cuba  
 - First Fig, 1974  
 - [Making of the Computer Graphics for Star Wars (Episode IV)](https://www.youtube.com/watch?v=yMeSw00n3Ac), 1977  
@@ -214,7 +224,7 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 - [Gold Diggers of 1933](https://www.youtube.com/watch?v=VxdZNCwConI), 1933
 - [By a Waterfall](https://www.youtube.com/watch?v=sneQ_kO_7Yc), Footlight Parade, 1933  
 - [I Only Have Eyes for You](https://www.youtube.com/watch?v=BhVeQV5HBbc), Dames, 1934  
-- [Lullaby of Broadway](https://www.youtube.com/watch?v=Yx6s-YReOJY), 1935
+- [Lullaby of Broadway](https://www.youtube.com/watch?v=Yx6s-YReOJY), 1935 (estratto)
 
 #### Ralph Steiner
 - [H2O](https://www.youtube.com/watch?v=1STF_usLSQY), 1929 (Accompagnare con brano musicale a scelta)  
@@ -287,6 +297,16 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 - [Tango](https://www.youtube.com/watch?v=6fWQ9E2X-EY), 1980
 - [Imagine by John Lennon](https://www.youtube.com/watch?v=tnXoJ3suYNU), 1986
 - [I can't think about dancing, by Missing Persons](https://www.youtube.com/watch?v=U3RpfKCPc00&list=PLTnbwiCw-mMRUpiJBImSWUVj1NoydUmL6&index=14), 1986
+#### INDUSTRIAL JP  
+- [小松ばね工業 × DJ TASAKA「KOMATSU BANE」](https://www.youtube.com/watch?v=fpjN_ZwiEvo), 2016  
+- [新栄工業 × DJ Gonno「SHIN-EI Press」](https://www.youtube.com/watch?v=ei7wHywxJj0), 2016  
+- [五光発條 × Sountrive「GOKO BANE」](https://www.youtube.com/watch?v=5QjVeH2Z57E), 2016  
+- [浅井製作所 × Dorian「ASAI NEJI」](https://www.youtube.com/watch?v=NLIP2yMHfPM), 2016  
+- [坂本製作所 × Cherryboy Function「SAKAMOTO Metal」](https://www.youtube.com/watch?v=FDilWVyv0Qo), 2016  
+- [明興双葉 × Paisley Parks「MEIKO WIRE」](https://www.youtube.com/watch?v=GKeSFy3hKZ0), 2017  
+- [東洋化成 × DJ NOBU「TOYO VINYL」](https://www.youtube.com/watch?v=scTn8tFcAS8), 2018  
+- [ROKI × Yuri Urano「ROKI FILTER」](https://www.youtube.com/watch?v=eTvdaTpnij4), 2019  
+
 ## 7. Demoscene  
 
 #### Shiru  
@@ -295,6 +315,9 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 
 #### azya  
 - [MK-90 video](https://www.youtube.com/watch?v=Swxv3FU7puw), 2022 (player video per il computer tascabile Elektronika MK-90)  
+
+#### Dieter Heinermann  
+- [RND Pixel Design](https://www.youtube.com/watch?v=R_emPK2nSp4), 1986 (Bally Astrocade, Bally BASIC)  
 
 ## 8. Bonus  
 
@@ -310,10 +333,6 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 #### Viking Eggeling  
 - [Symphonie Diagonale](https://www.youtube.com/watch?v=MtBjFv46XLQ), 1924 (musica di Olga Neuwirth)  
 
-#### John Whitney  
-- [Vertigo](https://www.youtube.com/watch?v=Z6tG8DWmuWM), 1958  
-
- 
 ## 9. Letture  
 
 #### Heinrich von Kleist  
