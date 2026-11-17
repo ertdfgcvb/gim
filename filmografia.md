@@ -1,7 +1,11 @@
 # Grafica in movimento: una filmografia  
 Filmografia, letture ed esercizi  
 
-## 1. Movimento  
+Una selezione personale e volutamente arbitraria di film, tecniche e testi, raccolta come materiale per un corso di grafica in movimento. Non pretende di essere completa né canonica.
+
+Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggruppano i film per affinità più che per cronologia: il movimento e la sua registrazione, la didattica e la scienza, il surreale, la geometria e l'astrazione, videoclip e titoli di testa, la demoscene. Chiudono alcuni extra e un paio di letture.
+
+## 1. Tecniche e dispositivi  
 
 #### Tecniche   
 1. [Stop motion](https://it.wikipedia.org/wiki/Passo_uno)
@@ -23,19 +27,22 @@ Filmografia, letture ed esercizi
 1. [Bio Motion Lab](https://www.biomotionlab.ca/html5-bml-walker/)  
 2. [p1 200](https://www.biomotionlab.ca/wp-content/uploads/2016/01/p1_200.gif)  
 
-#### [Lanterna magica](https://it.wikipedia.org/wiki/Lanterna_magica) (1659)  
-#### [Taumatropio](https://it.wikipedia.org/wiki/Taumatropio) (1825)  
-#### [Fenachistoscopio](https://it.wikipedia.org/wiki/Fenachistoscopio) (1833)  
-#### [Zootropio](https://it.wikipedia.org/wiki/Zootropio) (1834)  
-#### [Flipbook](https://it.wikipedia.org/wiki/Flip-book) (1868)  
-#### [Prassinoscopio](https://it.wikipedia.org/wiki/Prassinoscopio) (1877)  
-#### [Zoopraxiscopio](https://en.wikipedia.org/wiki/Zoopraxiscope) (1879)  
-#### [Kinetoscopio](https://it.wikipedia.org/wiki/Kinetoscopio) (1891)  
-#### [Teatro ottico](https://it.wikipedia.org/wiki/Teatro_ottico) (1892)  
-#### [Cinématographe](https://it.wikipedia.org/wiki/Cinématographe) (1895)  
-#### [Mutoscopio](https://en.wikipedia.org/wiki/Mutoscope) (1895)  
-#### [Rotoscopio](https://it.wikipedia.org/wiki/Rotoscopio) (1915)  
-#### [Multiplane camera](https://en.wikipedia.org/wiki/Multiplane_camera) (1937)  
+#### Dispositivi  
+1. [Lanterna magica](https://it.wikipedia.org/wiki/Lanterna_magica), 1659
+2. [Taumatropio](https://it.wikipedia.org/wiki/Taumatropio), 1825
+3. [Fenachistoscopio](https://it.wikipedia.org/wiki/Fenachistoscopio), 1833
+4. [Zootropio](https://it.wikipedia.org/wiki/Zootropio), 1834
+5. [Flipbook](https://it.wikipedia.org/wiki/Flip-book), 1868
+6. [Prassinoscopio](https://it.wikipedia.org/wiki/Prassinoscopio), 1877
+7. [Zoopraxiscopio](https://en.wikipedia.org/wiki/Zoopraxiscope), 1879
+8. [Kinetoscopio](https://it.wikipedia.org/wiki/Kinetoscopio), 1891
+9. [Teatro ottico](https://it.wikipedia.org/wiki/Teatro_ottico), 1892
+10. [Cinématographe](https://it.wikipedia.org/wiki/Cinématographe), 1895
+11. [Mutoscopio](https://en.wikipedia.org/wiki/Mutoscope), 1895
+12. [Rotoscopio](https://it.wikipedia.org/wiki/Rotoscopio), 1915
+13. [Multiplane camera](https://en.wikipedia.org/wiki/Multiplane_camera), 1937
+
+## 2. Movimento  
 
 #### [Eadweard Muybridge & Étienne-Jules Marey](https://it.wikipedia.org/wiki/Cronofotografia) (1850—80)  
 - Marey: [fusil photographique](https://it.wikipedia.org/wiki/Fucile_fotografico)  
@@ -75,7 +82,7 @@ Filmografia, letture ed esercizi
 - Insert Silence, 2000  
 - I Am A Chain Reaction, 2000  
 
-## 2. Didattica e scienza  
+## 3. Didattica e scienza  
 
 #### Visible Human Project  
 - [Male](https://www.youtube.com/watch?v=dPPjUtiAGYs), 1994
@@ -104,7 +111,10 @@ Filmografia, letture ed esercizi
 - [Alone. Life Wastes Andy Hardy](https://www.dailymotion.com/video/x306y9v), 1989
 - [Passage à l'acte](https://vimeo.com/398345542), 1993  
 
-## 3. Il mondo surreale  
+#### Karl Sims  
+- [Evolved Virtual Creatures](https://www.karlsims.com/evolved-virtual-creatures.html), 1994 (include i "bloopers")  
+
+## 4. Il mondo surreale  
 
 #### Len Lye  
 - [Tusalava](https://www.ngataonga.org.nz/explore-stories/curated-collections/free-radical-len-lye-at-120/1920s-1930s/), 1929  
@@ -151,7 +161,17 @@ Filmografia, letture ed esercizi
 #### Fischli & Weiss  
 - [Der Lauf der Dinge](https://www.facebook.com/earways/videos/der-lauf-der-dinge-the-way-things-go-fischli-weiss/570376236477565/), 1987  
 
-## 4. Geometrie  
+#### Lotte Reiniger  
+- [Die Abenteuer des Prinzen Achmed](https://www.youtube.com/watch?v=VHWTrwPMUwk), 1926  
+
+#### Alexandre Alexeieff & Claire Parker  
+- [Une nuit sur le mont chauve](https://www.youtube.com/watch?v=wYbjW7XrWDo), 1933  
+
+#### Caroline Leaf  
+- [The Owl Who Married a Goose](https://archive.org/details/theowlwhomarriedagoose), 1974  
+- [The Street](https://www.nfb.ca/film/the_street/), 1976  
+
+## 5. Geometrie  
 
 #### Auguste & Louis Lumière  
 - [Bataille de Boules de Neige](https://www.youtube.com/watch?v=gxPaojBMuB0), 1896
@@ -162,6 +182,15 @@ Filmografia, letture ed esercizi
 - [Filmstudie](https://www.youtube.com/watch?v=8JxUgqIN4ac), 1926
 - [Ghosts Before Breakfast](https://www.youtube.com/watch?v=R1RtfQDPkrE), 1928  
 
+#### Mary Ellen Bute  
+- [Rhythm in Light](https://www.youtube.com/watch?v=tTx63FrIWFg), 1934  
+- [Synchromy No. 2](https://www.youtube.com/watch?v=ylQRIf3a9IY), 1935  
+- [Parabola](https://www.youtube.com/watch?v=DUwiVelk-Oc), 1937  
+- [Synchromy No. 4: Escape](https://www.youtube.com/watch?v=hwIMQcDldu0), 1937  
+- [Spook Sport](https://vimeo.com/661914104), 1939 (con Norman McLaren, estratto)  
+- [Tarantella](https://www.youtube.com/watch?v=kgK8jsuhqbg), 1940  
+- [Abstronic](https://vimeo.com/217727679), 1952 (trailer)  
+
 #### Larry Cuba  
 - First Fig, 1974  
 - [Making of the Computer Graphics for Star Wars (Episode IV)](https://www.youtube.com/watch?v=yMeSw00n3Ac), 1977  
@@ -169,9 +198,16 @@ Filmografia, letture ed esercizi
 - [Two Space](https://vimeo.com/719688684), 1979  
 - [Calculated Movements](https://vimeo.com/719689551), 1985  
       
+#### Lillian Schwartz & Ken Knowlton  
+- [Pixillation](https://archive.org/details/1970LillianSchwartzPixillation), 1970  
+- [UFOs](https://archive.org/details/1971UFOsLillianSchwartzKenKnowlton), 1971  
+- [Olympiad](https://archive.org/details/1971LillianSchwartzKenKnowltonOlympiad), 1971  
+
 #### Busby Berkeley  
 - [Kaleidoscopic Dance](https://www.youtube.com/watch?v=ysvQ5MaUbd8), 1933
 - [Gold Diggers of 1933](https://www.youtube.com/watch?v=VxdZNCwConI), 1933
+- [By a Waterfall](https://www.youtube.com/watch?v=sneQ_kO_7Yc), Footlight Parade, 1933  
+- [I Only Have Eyes for You](https://www.youtube.com/watch?v=BhVeQV5HBbc), Dames, 1934  
 - [Lullaby of Broadway](https://www.youtube.com/watch?v=Yx6s-YReOJY), 1935
 
 #### Ralph Steiner
@@ -190,6 +226,11 @@ Filmografia, letture ed esercizi
 - [Synchromy](https://www.youtube.com/watch?v=_UA40sL06sU), 1971  
 - [Spheres](https://www.youtube.com/watch?v=XiBiO66pOqg), 1969   
 
+#### Evelyn Lambart  
+- [Begone Dull Care](https://www.nfb.ca/film/begone_dull_care/), 1949 (con Norman McLaren)  
+- [Fine Feathers](https://www.nfb.ca/film/fine_feathers/), 1968  
+- [The Lion and the Mouse](https://www.nfb.ca/film/lion_and_mouse/), 1976  
+
 #### Segundo de Chomon  
 - [Les Kiriki Acrobates Japonais](https://www.dailymotion.com/video/x45ra), 1907  
 - [La Maison ensorcelée](https://www.youtube.com/watch?v=nTdOSTQZCQA), 1907
@@ -202,7 +243,7 @@ Filmografia, letture ed esercizi
 - [Timbre A to Z](https://vimeo.com/31332018), 2011  
 - [Wonder](https://www.youtube.com/watch?v=GNtqywa7ASM), 2014  
 
-## 5. Videoclip e titoli di testa  
+## 6. Videoclip e titoli di testa  
 
 #### The Books  
 - [The Right Aint Shit](https://www.youtube.com/watch?v=a6KnjRJzcc4), 2003  
@@ -240,7 +281,7 @@ Filmografia, letture ed esercizi
 - [Tango](https://www.youtube.com/watch?v=6fWQ9E2X-EY), 1980
 - [Imagine by John Lennon](https://www.youtube.com/watch?v=tnXoJ3suYNU), 1986
 - [I can't think about dancing, by Missing Persons](https://www.youtube.com/watch?v=U3RpfKCPc00&list=PLTnbwiCw-mMRUpiJBImSWUVj1NoydUmL6&index=14), 1986
-## 6. Demoscene  
+## 7. Demoscene  
 
 #### Shiru  
 - [AONDEMO](https://www.youtube.com/watch?v=GPG6a__Q0Sg), 2018 (demo per un telefono sovietico AON (Z80, 1990), Chaos Constructions)  
@@ -249,7 +290,7 @@ Filmografia, letture ed esercizi
 #### azya  
 - [MK-90 video](https://www.youtube.com/watch?v=Swxv3FU7puw), 2022 (player video per il computer tascabile Elektronika MK-90)  
 
-## 7. Bonus  
+## 8. Bonus  
 
 #### Winsor McCay  
 - [Little Nemo](https://www.youtube.com/watch?app=desktop&v=X2BTEqVVf4Q&vl=en), 1911  
@@ -258,7 +299,7 @@ Filmografia, letture ed esercizi
 - [Le Cirque de Calder](https://www.youtube.com/watch?v=GS2q-8dFyiw), 1961 (con Musica di Pierre Henry)  
 
 #### Peter Liechti  
-- Signers Koffer, 1996  
+- [Signers Koffer](https://www.youtube.com/watch?v=kB3a__ozSGE), 1996 (trailer)  
 
 #### Viking Eggeling  
 - [Symphonie Diagonale](https://www.youtube.com/watch?v=MtBjFv46XLQ), 1924 (musica di Olga Neuwirth)  
@@ -267,12 +308,12 @@ Filmografia, letture ed esercizi
 - [Vertigo](https://www.youtube.com/watch?v=Z6tG8DWmuWM), 1958  
 
  
-## 8. Letture  
+## 9. Letture  
 
 #### Heinrich von Kleist  
 - Sul teatro di marionette, 1810
 
-#### Bruno Munari,  
+#### Bruno Munari  
 - Fotocronache – L‘isola dei tartufi, 1980  
 
   
