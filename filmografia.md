@@ -186,12 +186,18 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 - [Bataille de Boules de Neige](https://www.youtube.com/watch?v=gxPaojBMuB0), 1896
 - [Danse Serpentine](https://www.youtube.com/watch?v=1jqGmCIwOfw), Loie Fuller, 1899  
 
+#### Walter Ruttmann  
+- [Lichtspiel Opus I](https://www.youtube.com/watch?v=aHZdDmYFZN0), 1921  
+- [Opus II](https://www.youtube.com/watch?v=RwahxVC3rDY), 1921  
+- [Opus III](https://www.youtube.com/watch?v=hSA8-OuadME), 1924  
+
 #### Hans Richter  
 - [Rhythmus 21](https://www.youtube.com/watch?v=239pHUy0FGc), 1921 
 - [Filmstudie](https://www.youtube.com/watch?v=8JxUgqIN4ac), 1926
 - [Ghosts Before Breakfast](https://www.youtube.com/watch?v=R1RtfQDPkrE), 1928  
 
 #### Viking Eggeling  
+- Horizontal-Vertikal Orchester, c. 1921–23 (perduto)  
 - [Symphonie Diagonale](https://www.youtube.com/watch?v=MtBjFv46XLQ), 1924 (musica di Olga Neuwirth)  
 
 #### Mary Ellen Bute  
@@ -209,6 +215,9 @@ Il primo capitolo raccoglie tecniche e dispositivi storici; i successivi raggrup
 - [Permutations](https://www.youtube.com/watch?v=U0OlsJEijHM), 1968  
 - [Matrix III](https://www.youtube.com/watch?v=ZrKgyY5aDvA), 1972  
 - [Arabesque](https://www.youtube.com/watch?v=cxkbScwt77g), 1975  
+
+#### James Whitney  
+- [Lapis](https://www.youtube.com/watch?v=kzniaKxMr2g), 1966  
 
 #### Larry Cuba  
 - First Fig, 1974  
