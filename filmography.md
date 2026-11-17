@@ -3,7 +3,7 @@ Filmography, readings and exercises
 
 A personal and deliberately arbitrary selection of films, techniques and texts, gathered as material for a motion graphics course. It makes no claim to be complete or canonical.
 
-The first chapter covers techniques and historical devices; the following ones group films by affinity rather than chronology: movement and its recording, education and science, the surreal, geometry and abstraction, music videos and title sequences, the demoscene. A few extras and some readings close the list.
+The first chapter covers techniques and historical devices; the following ones group films by affinity rather than chronology: movement and its recording, education and science, the surreal, geometry and abstraction, music videos, title sequences, the demoscene. A few extras and some readings close the list.
 
 ## 1. Techniques and devices  
 
@@ -191,6 +191,9 @@ The first chapter covers techniques and historical devices; the following ones g
 - [Filmstudie](https://www.youtube.com/watch?v=8JxUgqIN4ac), 1926
 - [Ghosts Before Breakfast](https://www.youtube.com/watch?v=R1RtfQDPkrE), 1928  
 
+#### Viking Eggeling  
+- [Symphonie Diagonale](https://www.youtube.com/watch?v=MtBjFv46XLQ), 1924 (music by Olga Neuwirth)  
+
 #### Mary Ellen Bute  
 - [Rhythm in Light](https://www.youtube.com/watch?v=tTx63FrIWFg), 1934  
 - [Synchromy No. 2](https://www.youtube.com/watch?v=ylQRIf3a9IY), 1935  
@@ -259,44 +262,23 @@ The first chapter covers techniques and historical devices; the following ones g
 - [Timbre A to Z](https://vimeo.com/31332018), 2011  
 - [Wonder](https://www.youtube.com/watch?v=GNtqywa7ASM), 2014  
 
-## 6. Music videos and title sequences  
+## 6. Music videos  
 
 #### The Books  
 - [The Right Aint Shit](https://www.youtube.com/watch?v=a6KnjRJzcc4), 2003  
 - [Take Time](https://www.youtube.com/watch?v=b1irbhY_dgY), 2003  
 - [Smells Like Content](https://www.youtube.com/watch?v=LT_Uf4hq-fk), 2005  
-- [Meditation](https://vimeo.com/24331455), 20??  
+- [Meditation](https://vimeo.com/24331455), 20??
 
 #### Rogier van der Zwaag  
 - [Nobody Beats the Drum, Grindin](https://vimeo.com/9625370), 2010  
 - [Nobody Beats the Drum, Grindin – Making of](http://www.youtube.com/watch?v=XBqxjvDAAWE&feature=channel), 2010
-  
-#### Saul Bass  
-- [The Man With The Golden Arm](https://www.artofthetitle.com/title/the-man-with-the-golden-arm/), 1955  
-- [Vertigo](https://www.artofthetitle.com/title/vertigo/), 1958  
-- [North By Northwest](https://www.artofthetitle.com/title/north-by-northwest/), 1959  
-- [Ocean's Eleven](https://www.artofthetitle.com/title/oceans-eleven/), 1960  
-- [Psycho](https://www.artofthetitle.com/title/psycho/), 1960  
-- [Grand Prix](https://www.artofthetitle.com/title/grand-prix/), 1966  
-- [Casino](https://www.artofthetitle.com/title/casino/), 1995  
-
-#### Pablo Ferro  
-- [Dr. Strangelove](https://www.youtube.com/watch?v=e5hX0RdD34s), 1964  
-- [To die for](https://www.artofthetitle.com/title/to-die-for/), 1995  
-
-#### Maurice Binder  
-- [Charade](https://www.artofthetitle.com/title/charade/), 1963  
-- [Repulsion](https://artofthetitle.com/title/repulsion/), 1965  
-- [Two For The Road](https://www.youtube.com/watch?v=wMsZGgBV3x4), 1967  
-- Selection of James Bond title sequences, 007  
-
-#### Imaginary Forces  
-- [Dead Man on Campus](https://www.artofthetitle.com/title/dead-man-on-campus/), 1998  
 
 #### Zbigniew Rybczynski 
 - [Tango](https://www.youtube.com/watch?v=6fWQ9E2X-EY), 1980
 - [Imagine by John Lennon](https://www.youtube.com/watch?v=tnXoJ3suYNU), 1986
 - [I can't think about dancing, by Missing Persons](https://www.youtube.com/watch?v=U3RpfKCPc00&list=PLTnbwiCw-mMRUpiJBImSWUVj1NoydUmL6&index=14), 1986
+
 #### INDUSTRIAL JP  
 - [小松ばね工業 × DJ TASAKA「KOMATSU BANE」](https://www.youtube.com/watch?v=fpjN_ZwiEvo), 2016  
 - [新栄工業 × DJ Gonno「SHIN-EI Press」](https://www.youtube.com/watch?v=ei7wHywxJj0), 2016  
@@ -305,9 +287,35 @@ The first chapter covers techniques and historical devices; the following ones g
 - [坂本製作所 × Cherryboy Function「SAKAMOTO Metal」](https://www.youtube.com/watch?v=FDilWVyv0Qo), 2016  
 - [明興双葉 × Paisley Parks「MEIKO WIRE」](https://www.youtube.com/watch?v=GKeSFy3hKZ0), 2017  
 - [東洋化成 × DJ NOBU「TOYO VINYL」](https://www.youtube.com/watch?v=scTn8tFcAS8), 2018  
-- [ROKI × Yuri Urano「ROKI FILTER」](https://www.youtube.com/watch?v=eTvdaTpnij4), 2019  
+- [ROKI × Yuri Urano「ROKI FILTER」](https://www.youtube.com/watch?v=eTvdaTpnij4), 2019
 
-## 7. Demoscene  
+## 7. Title sequences  
+
+- [Art of the Title](https://www.artofthetitle.com/)  
+
+#### Saul Bass  
+- [The Man With The Golden Arm](https://www.artofthetitle.com/title/the-man-with-the-golden-arm/), 1955  
+- [Vertigo](https://www.artofthetitle.com/title/vertigo/), 1958  
+- [North By Northwest](https://www.artofthetitle.com/title/north-by-northwest/), 1959  
+- [Ocean's Eleven](https://www.artofthetitle.com/title/oceans-eleven/), 1960  
+- [Psycho](https://www.artofthetitle.com/title/psycho/), 1960  
+- [Grand Prix](https://www.artofthetitle.com/title/grand-prix/), 1966  
+- [Casino](https://www.artofthetitle.com/title/casino/), 1995
+
+#### Pablo Ferro  
+- [Dr. Strangelove](https://www.youtube.com/watch?v=e5hX0RdD34s), 1964  
+- [To die for](https://www.artofthetitle.com/title/to-die-for/), 1995
+
+#### Maurice Binder  
+- [Charade](https://www.artofthetitle.com/title/charade/), 1963  
+- [Repulsion](https://artofthetitle.com/title/repulsion/), 1965  
+- [Two For The Road](https://www.youtube.com/watch?v=wMsZGgBV3x4), 1967  
+- Selection of James Bond title sequences, 007
+
+#### Imaginary Forces  
+- [Dead Man on Campus](https://www.artofthetitle.com/title/dead-man-on-campus/), 1998
+
+## 8. Demoscene  
 
 #### Shiru  
 - [AONDEMO](https://www.youtube.com/watch?v=GPG6a__Q0Sg), 2018 (demo for a Soviet AON caller ID phone (Z80, 1990), Chaos Constructions)  
@@ -319,7 +327,7 @@ The first chapter covers techniques and historical devices; the following ones g
 #### Dieter Heinermann  
 - [RND Pixel Design](https://www.youtube.com/watch?v=R_emPK2nSp4), 1986 (Bally Astrocade, Bally BASIC)  
 
-## 8. Bonus  
+## 9. Bonus  
 
 #### Winsor McCay  
 - [Little Nemo](https://www.youtube.com/watch?app=desktop&v=X2BTEqVVf4Q&vl=en), 1911  
@@ -330,10 +338,7 @@ The first chapter covers techniques and historical devices; the following ones g
 #### Peter Liechti  
 - [Signers Koffer](https://www.youtube.com/watch?v=kB3a__ozSGE), 1996 (trailer)  
 
-#### Viking Eggeling  
-- [Symphonie Diagonale](https://www.youtube.com/watch?v=MtBjFv46XLQ), 1924 (music by Olga Neuwirth)  
-
-## 9. Readings  
+## 10. Readings  
 
 #### Heinrich von Kleist  
 - On the Marionette Theatre, 1810
